@@ -1,0 +1,106 @@
+- Initial Background
+- Small introduction with important links
+- List of Internships	(DONE)
+- List of Projects	(DONE)
+- Links to Miscellaneous things (i.e. Hobbies, Travel, etc)
+- Contact Info	(DONE)
+
+- Mention Interests
+
+- Publications:
+	- AdaScan
+	- ChaLearn
+	- Partial Multi View Clustering
+	- Maritime
+	
+- Internships:	(DONE)
+	- CARIS Lab, UBC
+	- Xerox Research Centre India
+	- I.N.R.I.A. Paris
+
+- Selected Projects:
+	- AdaScan: Adaptive Scan Pooling for Action Recognition
+	- Chalearn Personality Trait Analysis
+	- Visual Story Telling
+	- Visual Question Answering using Semantic Attention
+	- Real Time Vehicle Recognition and Automatic Number Plate Recognition
+	- Partial Multi View Clustering
+	- Alternate Paths in Road Networks
+
+Add link to other projects here
+
+- Other Projects:
+	- Computer Networks (Proxy, etc)
+	- Merging Point Clouds
+	- Predicting Human Arm Reach
+	- Social Network Analysis
+	- Word Embeddings Using Multiple Word Prototypes
+	- NachOS Operating System
+	- Geometric Data Structures
+	- MultiModal Emotion Recognition
+	- Othello, Battleship AI
+	- Question Topic Classifcation
+	- News Report Classification
+
+- Teaching Experience:
+	- Introduction to Computing
+
+- Major Projects:	(DONE)
+	- Chalearn Personality Trait Analysis
+	- Merging Point Clouds
+	- Predicting Human Arm Reach
+	- Multi View Clustering
+	- Alternate Paths
+	- Social Network Analysis
+	- Word Embeddings Using Multiple Word Prototypes
+	- NachOS Operating System
+	- Geometric Data Structures
+	- MultiModal Emotion Recognition
+	- Othello, Battleship AI
+	- News Report Classification
+		
+- Resources:	(DONE)
+	- Project Reports
+	- Resumes
+	- Posters
+	
+Todos:
+
+- Add resumes and links for introduction
+- Add small pages for describing the projects (One new page for this)	(DONE)
+- Add repo links, reports, posters and descriptions of the projects (Add all this in one page)	(DONE)
+- Add details of the internship (One New page for it)	(DONE)
+- Finish Descriptions	(DONE)
+	- Internships
+		- Describe Place, Mentors, Project Undertaken, Duration (Official Details)
+		- Describe Project
+		- Mention some results
+- Add links to all hyperlinks	(DONE)	
+- Possibly add other links such as hobbies, travel, etc
+
+
+Project Grid:
+
+- AdaScan: Adaptive Scan Pooling for Action Recognition	(Deep, CV)	(fig done)	(Desc done)
+- Chalearn Personality Trait Analysis	(Deep, CV)	(Fig done)	(Desc done)
+- Visual Story Telling	(Deep, CV, NLP)	(fig done)	(Desc done)
+- Visual Question Answering using Semantic Attention	(Deep, CV)	(fig done)	(Desc done)
+- Real Time Vehicle Recognition and Automatic Number Plate Recognition	(CV)	(fig done)
+- Partial Multi View Clustering	(Intern, Other) 	(Fig done)	(Desc done)
+- Alternate Paths in Road Networks	(Intern, Algorithms)	(Fig done)	(Desc done)
+
+- Computer Networks (Proxy, etc)	(Other)	(fig done)
+- Merging Point Clouds	(Intern, CV)	(fig done)	(Desc done)
+- Predicting Human Arm Reach 	(Intern, CV)	(fig done)	(Desc done)
+- Adaptive Strategies for Prisoner's Dillema	(Other)	(fig done)
+- ADA Compiler	(Other)	(fig done)
+- Social Network Analysis	(Intern, Algorithms) (Fig done)	(Desc done)
+- Word Embeddings Using Multiple Word Prototypes	(NLP)	(Fig done)	(Desc done)
+- NachOS Operating System	(Other)	(Fig done)	(Desc done)
+- Geometric Data Structures	(Algorithms)	(Fig done)	(Desc done)
+- MultiModal Emotion Recognition	(CV)	(Fig done)	(Desc done)
+- News Report Classification	(Other, NLP)	(Fig done)	(Desc done)
+- Sentiment Analysis of social media	(Other)
+
+
+
